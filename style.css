@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet');
 body{
     font-family: Roboto slab,sans-serif;
+    margin: 0px;
 }
 hr{
     margin: 2rem 0rem;
@@ -83,4 +84,16 @@ hr{
 }
 .ow{
     background-color: var(--light-grey);
+}
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+}
+.footer .link{
+    color: white;
+}
+.footer ul{
+     padding-inline-start: 0px;
 }
