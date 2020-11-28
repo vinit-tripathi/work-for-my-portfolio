@@ -2,6 +2,9 @@
 body{
     font-family: Roboto slab,sans-serif;
 }
+hr{
+    margin: 2rem 0rem;
+}
 :root{
      --primary-color: #C97224;
 }
